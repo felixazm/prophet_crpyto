@@ -16,7 +16,7 @@ st.markdown("This application enables you to predict on the future value of any 
 	any number of days into the future. The application is built with Streamlit (the front-end) and the Meta Prophet model, \
 	which is an advanced open-source forecasting model (the back-end). You can select to train the model \
 	on either all available data or a pre-set date range. You can plot the prediction results on both a normal and log scale. \
-    Selecting log scale converts the data from absolute values to percentages")
+    	Selecting log scale converts the data from absolute values to percentages")
 
 ### Change sidebar color
 st.markdown(
