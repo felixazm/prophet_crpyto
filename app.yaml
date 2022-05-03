@@ -1,4 +1,4 @@
-runtime: python370
+runtime: python37
 
 instance_class: F2
 
